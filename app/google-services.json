@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936038806743",
+    "project_id": "autorization-b9f4e",
+    "storage_bucket": "autorization-b9f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936038806743:android:8e1a488a8abe0e16e8ac92",
+        "android_client_info": {
+          "package_name": "com.example.autorization"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3bVUlRgSgtGLvJeCn6VnjS03-7ZWmb6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
